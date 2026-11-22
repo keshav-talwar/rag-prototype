@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+weaviate-client
+langchain
+langchain-experimental
+langchain-huggingface
+sentence-transformers
+faster-whisper
+pymupdf
+pytesseract
+Pillow
